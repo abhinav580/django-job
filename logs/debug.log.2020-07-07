@@ -1,0 +1,82 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 18169
+"GET / HTTP/1.1" 200 18169
+"GET / HTTP/1.1" 200 18169
+"GET / HTTP/1.1" 200 18169
+"GET /static/img/startup.jpg HTTP/1.1" 404 1669
+"GET /static/img/startup.jpg HTTP/1.1" 404 1669
+"GET /static/img/startup.jpg HTTP/1.1" 404 1669
+"GET /static/img/startup.jpg HTTP/1.1" 404 1669
+Not Found: /favicon.png
+Not Found: /favicon.png
+"GET /favicon.png HTTP/1.1" 404 4395
+"GET /favicon.png HTTP/1.1" 404 4395
+"GET /admin HTTP/1.1" 301 0
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 1816
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 1816
+"GET /static/admin/css/login.css HTTP/1.1" 200 1233
+"GET /static/admin/css/login.css HTTP/1.1" 200 1233
+"GET /static/admin/css/base.css HTTP/1.1" 200 16378
+"GET /static/admin/css/base.css HTTP/1.1" 200 16378
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 17944
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 17944
+"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 4395
+"GET /favicon.ico HTTP/1.1" 404 4395
+"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 3713
+"GET /admin/ HTTP/1.1" 200 3713
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+"GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 3713
+"GET /admin/ HTTP/1.1" 200 3713
+"GET / HTTP/1.1" 200 18431
+"GET / HTTP/1.1" 200 18431
+"GET /static/img/startup.jpg HTTP/1.1" 404 1669
+"GET /static/img/startup.jpg HTTP/1.1" 404 1669
+"GET /static/vendor/popper.js/umd/popper.min.js.map HTTP/1.1" 404 1738
+"GET /static/vendor/popper.js/umd/popper.min.js.map HTTP/1.1" 404 1738
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.js.map HTTP/1.1" 404 1774
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.js.map HTTP/1.1" 404 1774
+"GET /static/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 404 1750
+"GET /static/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 404 1750
+"GET /static/vendor/bootstrap/js/bootstrap.min.js.map HTTP/1.1" 404 1744
+"GET /static/vendor/bootstrap/js/bootstrap.min.js.map HTTP/1.1" 404 1744
+"GET / HTTP/1.1" 200 18431
+"GET / HTTP/1.1" 200 18431
+"GET /static/img/startup.jpg HTTP/1.1" 404 1669
+"GET /static/img/startup.jpg HTTP/1.1" 404 1669
+"GET / HTTP/1.1" 200 18431
+"GET / HTTP/1.1" 200 18431
+"GET /static/img/startup.jpg HTTP/1.1" 404 1669
+"GET /static/img/startup.jpg HTTP/1.1" 404 1669
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 6895
+"GET /login HTTP/1.1" 200 6895
+"GET /employer/register HTTP/1.1" 200 8395
+"GET /employer/register HTTP/1.1" 200 8395
+Not Found: /employer/favicon.png
+Not Found: /employer/favicon.png
+"GET /employer/favicon.png HTTP/1.1" 404 4422
+"GET /employer/favicon.png HTTP/1.1" 404 4422
