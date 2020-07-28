@@ -18,3 +18,4 @@ urlpatterns = [
     path('jobs/<int:id>', JobDetailsView.as_view(), name='jobs-detail'),
     path('employer/jobs/create', JobCreateView.as_view(), name='employer-jobs-create'),
 ]
+
